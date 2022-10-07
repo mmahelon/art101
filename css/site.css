@@ -1,0 +1,10 @@
+#my-portrait {
+    float:left;
+    width: 500px;
+
+}
+#intro {
+  border-radius: 25px;
+  background #73AD21;
+  padding: 20px;
+}
