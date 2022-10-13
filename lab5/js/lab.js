@@ -1,17 +1,17 @@
 /**
- * Author:    Micah Mahelona
+ * Author:    Micah Mahelona, Aaron Dangc
  * Created:   10.12.2022
  * Art 101: Computer Programming for the Arts.
  **/
 
  //define variables
- make = "Toyota";
- model = "Prius Prime";
- color = "Space Gray";
- year = "2020";
+ var make = "Toyota";
+ var model = "Prius Prime";
+ var color = "Space Gray";
+ var year = "2020";
 
  //calculate
- age = 2022 - year;
+ var age = 2022 - year;
 
 //print
  document.writeln("Make: " + make + "<br>");
