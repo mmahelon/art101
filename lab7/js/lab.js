@@ -5,7 +5,7 @@
  *
  **/
 function NameSorter(){
-  var userName = window.prompt("Hello! Can you tell me your name so I can organize it?");
+  var userName = window.prompt("Hello! Can you tell me your name so I can arrange its letters by alphabetical order?");
   console.log("userName =", userName);
   // split string to array
   var nameArray = userName.split('');
@@ -20,5 +20,5 @@ function NameSorter(){
 }
 
 // output
-document.writeln("What's up? I just finished organizing your name: ",
-  NameSorter(), "</br>");
+document.writeln("What's up? I just finished re-arranging your name into alphabetical order!",
+NameSorter(), "</br>");
