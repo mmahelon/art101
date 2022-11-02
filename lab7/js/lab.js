@@ -1,9 +1,10 @@
 /**
  * Author:    Micah Mahelona, Jorge Gonzalez
- * Created:   10.19.2022
+ * Created:   10.24.2022
  * Art 101: Computer Programming for the Arts.
  *
  **/
+
 function NameSorter(){
   var userName = window.prompt("Hello! Can you tell me your name so I can arrange its letters by alphabetical order?");
   console.log("userName =", userName);
