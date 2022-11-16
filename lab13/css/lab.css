@@ -11,13 +11,6 @@ body {
 .underline{
   text-decoration: underline;
 }
-
-#code{
-  font-size:16px;
-  color: #e3cfcf;
-  text-align: left;
-}
-
 .classname {
   color: #e3cfcf;
   text-align: center;
@@ -46,14 +39,27 @@ a {
   color: #e3cfcf;
   text-decoration: none;
 }
-}
 .header {
   color: #e3cfcf;
   font-size: 24px;
   text-decoration: underline;
 }
-
-
 .text {
   font-size: 16px;
   color: #e3cfcf;
+}
+.special {
+background-color: #FF5733;
+}
+
+.specialer {
+background-color: #FFC300;
+}
+
+.specialest {
+background-color: #C70039;
+}
+
+.button {
+background-color: #4FFF33;
+}
